@@ -1,0 +1,1 @@
+from app.config.default import settings
