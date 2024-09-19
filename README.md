@@ -18,5 +18,5 @@ To build and start all the required containers, run the following command:
 docker-compose up --build 
 ```
 
-### Step 4: Usage
+### Step 3: Usage
 Docs: http://0.0.0.0:8000/docs
